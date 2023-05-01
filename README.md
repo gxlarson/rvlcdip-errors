@@ -1,6 +1,6 @@
 # On Evaluation of Document Classifiers using RVL-CDIP
 
-This is the companion page for the paper On Evaluation of Document Classifiers using RVL-CDIP (EACL 2023).
+This is the companion page for the paper [On Evaluation of Document Classifiers using RVL-CDIP](https://aclanthology.org/2023.eacl-main.195.pdf) (EACL 2023).
 The paper highlights several characteristics in RVL-CDIP, including (1) annotation errors and ambiguities, (2) test-train overlap, making RVL-CDIP a less-than-optimal benchmark for evaluating document classifiers.
 
 ## Examples
