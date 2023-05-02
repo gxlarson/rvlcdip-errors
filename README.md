@@ -5,7 +5,13 @@ The paper highlights several characteristics in RVL-CDIP, including (1) annotati
 
 ## Annotation Issues
 
+We observe several annotation issues in the RVL-CDIP dataset. These include: documents that do not fall within any of the 16 RVL-CDIP categories, documents that do fall within one of the RVL-CDIP categories but are incorrectly labeled, and documents that fit within multiple RVL-CDIP categories.
+
 ### Unknown Documents
+
+We found a large number of documents that did not belong to any of the 16 RVL-CDIP categories. Examples are shown below.
+
+![unknown_labels](unknown_labels.png)
 
 ### Wrong Labels
 
@@ -23,6 +29,10 @@ This is an example of what we call a `mixed` label ambiguity in our paper.
 ![ambiguous](rvlcdip_ambiguity.png)
 
 ## Test-Train Overlap
+
+We observed a sizeable amount of documents in the RVL-CDIP test set that have near-duplicates in the train set. Examples are shown below. The pair on the left is a near-duplicate, while the pair on the right is what we call a "template match": two documents that share the same template but differ in the information "filled out" in the template.
+
+![near_duplicates](near_duplicates.png)
 
 ## Sensitive Data
 
