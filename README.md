@@ -9,6 +9,11 @@ The paper highlights several characteristics in RVL-CDIP, including (1) annotati
 
 ### Wrong Labels
 
+We found a large number of incorrectly-annotated documents that had an incorrect original label, and should have been labeled as a different RVL-CDIP label.
+Examples are shown below (red label: original; blue label: our corrected label).
+
+![wrong_labels](wrong_labels.png)
+
 ### Mixed Documents
 
 The below pair of document images shows two highly similar documents, yet one is labeled as `news_article` in RVL-CDIP, while the other is labeled `letter`.
