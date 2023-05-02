@@ -36,6 +36,10 @@ We observed a sizeable amount of documents in the RVL-CDIP test set that have ne
 
 ## 3. Sensitive Data
 
+We also observed a surprising amount of instances of sensitive data, including US Social Security numbers (SSNs). Example cropped portions of documents with sensitive data are displayed below (redacted by us).
+
+![sensitive_data](sensntive_data.png)
+
 ## Citation
 
 If you find our paper useful for your research, please do not hesitate to cite:
