@@ -51,7 +51,6 @@ If you find our paper useful for your research, please do not hesitate to cite:
       Lim, Gordon  and
       Leach, Kevin",
     booktitle = "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics",
-    month = may,
     year = "2023",
     address = "Dubrovnik, Croatia",
     publisher = "Association for Computational Linguistics",
